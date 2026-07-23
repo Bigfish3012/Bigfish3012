@@ -103,36 +103,6 @@ cycle, an AI opponent, and a data-driven card ability system with on-reveal effe
 Solo-built a real-time, Tron-style light-cycle arena game — AI-controlled opponents,
 continuous trail-collision detection, and an elimination-order ranking system.
 
-<br/>
-
-**`[ ??? ]`**
-
-### 🔒 NEXT LEVEL
-your team, maybe?
-
-</div>
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-## `>` ACHIEVEMENTS UNLOCKED
-
-<div align="center">
-
-![Shipped x4](https://img.shields.io/badge/🏆_SHIPPED-4_PROJECTS-2DE1C2?style=for-the-badge&labelColor=0A0A12)
-![Solo Dev](https://img.shields.io/badge/🏆_SOLO_RUN-CLEARED_x2-FF3D7F?style=for-the-badge&labelColor=0A0A12)
-![Team Lead](https://img.shields.io/badge/🏆_PROGRAMMING_LEAD-PARTY_x7-FFC93C?style=for-the-badge&labelColor=0A0A12)
-![Trilingual](https://img.shields.io/badge/🏆_TRILINGUAL-EN_%2F_ZH_%2F_YUE-2DE1C2?style=for-the-badge&labelColor=0A0A12)
-
-</div>
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-## `>` STATUS
-
-<div align="center">
-<img src="./assets/status.svg" width="100%" alt="status panel" />
-</div>
-
 <img src="./assets/divider.svg" width="100%" alt="" />
 
 ## `>` CONTRIBUTION FEED
