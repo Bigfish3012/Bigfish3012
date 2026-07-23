@@ -64,7 +64,7 @@ and UX design experience in Figma. Looking for game development or software engi
 
 <div align="center">
 
-**`[ S RANK ]`** · **`PROGRAMMING LEAD`** · **`PARTY x7`** · **`JAN – MAR 2026`**
+**`PROGRAMMING LEAD`** · **`PARTY x7`** · **`JAN – MAR 2026`**
 
 ### [▶ COMBAT SHUANG](https://github.com/Bigfish3012/cmpm171-2d-roguelike)
 `Unity` `C#` `2D Roguelike`
@@ -75,7 +75,7 @@ reworked aiming and dash controls after playtest feedback.
 
 <br/>
 
-**`[ A RANK ]`** · **`UX / PRODUCT DESIGN`** · **`APR – JUN 2026`**
+**`UX / PRODUCT DESIGN`** · **`APR – JUN 2026`**
 
 ### [▶ MONEYWI$E](https://www.figma.com/design/D6DGHTBiclVDzVdM9Ey27V/Low-Fidelity--Copy-?node-id=0-1&t=qpDrLICveAw0VaW1-1)
 `Figma` `Personal Finance App`
@@ -85,7 +85,7 @@ through interactive prototypes, a heuristic evaluation, and moderated usability 
 
 <br/>
 
-**`[ A RANK ]`** · **`SOLO DEVELOPER`** · **`APR – JUN 2025`**
+**`SOLO DEVELOPER`** · **`APR – JUN 2025`**
 
 ### [▶ CCCG](https://github.com/Bigfish3012/CMPM121-S25/blob/main/final-project/README.MD)
 `Lua` `Turn-Based Card Battler`
@@ -95,7 +95,7 @@ cycle, an AI opponent, and a data-driven card ability system with on-reveal effe
 
 <br/>
 
-**`[ A RANK ]`** · **`SOLO DEVELOPER`** · **`FEB – MAR 2025`**
+**`SOLO DEVELOPER`** · **`FEB – MAR 2025`**
 
 ### [▶ LIGHT WALL](https://github.com/Bigfish3012/CMPM-120/tree/main/Light-Wall)
 `JavaScript` `Arena Survival`
@@ -109,12 +109,4 @@ continuous trail-collision detection, and an elimination-order ranking system.
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Bigfish3012/Bigfish3012/output/pixel-snake-dark.svg" width="100%" alt="contribution snake" />
-</div>
-
-<br/>
-
-<div align="center">
-
-`PRESS A TO CONTINUE` — open to Game Design, Game Programming, and Software Engineering roles.
-
 </div>
