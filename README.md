@@ -8,9 +8,9 @@
 
 <br/>
 
-[![Email](https://img.shields.io/badge/EMAIL-your.email%40example.com-FF3D7F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A12)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-connect-2DE1C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A12)](https://linkedin.com/in/your-handle)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-visit-FFC93C?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0A0A12)](https://your-portfolio-link.com)
+[![Email](https://img.shields.io/badge/EMAIL-lichengkun0907@gmail.com-FF3D7F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A12)](mailto:lichengkun0907@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-connect-2DE1C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A12)](https:www.linkedin.com/in/chengkun-li-5b5434243)
+<!-- [![Portfolio](https://img.shields.io/badge/PORTFOLIO-visit-FFC93C?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0A0A12)](https://your-portfolio-link.com) -->
 
 </div>
 
@@ -47,8 +47,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0A0A12&title_color=2DE1C2&icon_color=FF3D7F&text_color=EDEFF7&ring_color=FFC93C" width="48%" alt="github stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0A0A12&title_color=2DE1C2&text_color=EDEFF7" width="38%" alt="top langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=Bigfish3012&show_icons=true&hide_border=true&bg_color=0A0A12&title_color=2DE1C2&icon_color=FF3D7F&text_color=EDEFF7&ring_color=FFC93C" width="48%" alt="github stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bigfish3012&layout=compact&hide_border=true&bg_color=0A0A12&title_color=2DE1C2&text_color=EDEFF7" width="38%" alt="top langs" />
 
 </div>
 
@@ -57,7 +57,7 @@
 ## `>` CONTRIBUTION FEED
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/pixel-snake-dark.svg" width="100%" alt="contribution snake" />
+<img src="https://raw.githubusercontent.com/Bigfish3012/Bigfish3012/output/pixel-snake-dark.svg" width="100%" alt="contribution snake" />
 </div>
 
 <br/>
